@@ -11,7 +11,7 @@ I enjoy understanding how systems work behind the scenes and building applicatio
 
 ## Featured Projects
 
-### Abducted by Earthlings – Python Text Adventure
+### Abducted by Earthlings - Python Text Adventure
 
 A text-based game created while learning Python fundamentals.
 
@@ -26,7 +26,7 @@ Repository: Python-Text-Based-Game
 
 ---
 
-### ABC University Course Planner – C++
+### ABC University Course Planner - C++
 
 Console application that loads, displays, and searches course data using hash tables.
 
